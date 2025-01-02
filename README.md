@@ -32,7 +32,7 @@ Our study investigates **Wanda**, an innovative pruning technique based on weigh
 
 ## How to Get Started
 1. Clone this repository:
-   git clone https://github.com/vinaypadegal/cis5300-pruning-project.git
+   git clone https://github.com/vinaypadegal/opt_pruning.git
 2. Follow the instructions in the documentation for setup and execution.
 
 ## Results
